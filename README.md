@@ -1,20 +1,35 @@
-# My Project
+# Awesome Project
 
-This is my project. It's really cool and does a lot of stuff.
+Welcome to my project!
 
-## Installation
+## Introduction
 
-1. Clone this repository.
-2. Run `npm install` to install dependencies.
-3. Run `npm start` to start the project.
+This is my awesome project. It's super cool and you should totally use it.
+
+## Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Setup
+
+1. Clone this repo.
+2. Install dependencies.
+3. Run the project.
 
 ## Usage
 
-Just use the project. It's pretty self-explanatory.
+Just figure it out.
 
-## Contributing
+## Roadmap
 
-Feel free to contribute if you want.
+- Add more features
+- Fix bugs
+
+## Contribution
+
+If you want to contribute, go ahead.
 
 ## License
 
